@@ -47,6 +47,7 @@ $apps = @(
     "Microsoft.XboxSpeechToTextOverlay"
     "Microsoft.ZuneMusic"
     "Microsoft.ZuneVideo"
+    "Microsoft.Office.Desktop" # Removes the Microsoft Office Apps (Windows Store Version)
     
     
     # Threshold 2 apps
